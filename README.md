@@ -6,7 +6,7 @@ Listview with Snapping Effect.
 
 This project covers how to add snapping effect in horizontal as well as vertical listview.
 
-##Dependency
+## Dependency
 
 	[scroll_snap_list](https://pub.dev/packages/scroll_snap_list)
 	
