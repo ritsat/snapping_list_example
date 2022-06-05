@@ -8,7 +8,7 @@ This project covers how to add snapping effect in horizontal as well as vertical
 
 ## Dependency
 
-	[scroll_snap_list](https://pub.dev/packages/scroll_snap_list)
+[scroll_snap_list](https://pub.dev/packages/scroll_snap_list)
 	
 ##
 
